@@ -36,7 +36,7 @@ The detection metrics are:
 
 
 ## Using the dataset
-Use of this dataset is subject of the terms of the LICENSE.
+Use of this dataset is subject of the terms of the [LICENSE](LICENSE).
 
 If you use our dataset in your work, please cite the corresponding paper:
 
