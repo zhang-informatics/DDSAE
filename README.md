@@ -40,5 +40,4 @@ Use of this dataset is subject of the terms of the [LICENSE](LICENSE).
 
 If you use our dataset in your work, please cite the corresponding paper:
 
-*Vasilakes J, Rizvi R, Zhang J, Adam T, Zhang R. "Detecting Signals of Dietary Supplement Adverse Events from the CFSAN Adverse Event Reporting System (CAERS)". 
-AMIA Jt Summits Transl Sci Proc. Forthcoming.*
+*Vasilakes JA, Rizvi RF, Zhang J, Adam TJ, Zhang R. Detecting Signals of Dietary Supplement Adverse Events from the CFSAN Adverse Event Reporting System (CAERS). AMIA Jt Summits Transl Sci Proc. 2019;2019:258–266.*
